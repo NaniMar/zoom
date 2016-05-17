@@ -1,0 +1,41 @@
+body{
+			background:url(../img/bgd2.jpg) repeat-x;
+			background-position:50% 0;
+			}
+
+#logo{
+		margin-top:-45px;
+		}
+			
+#cartel{
+	width:900px;
+	height:490px;
+	margin-bottom:0px;
+	border-radius:10px;
+		-moz-border-radius:10pxpx;
+		-webkit-border-radius:10px;
+	box-shadow:0px 2px 2px #000;
+		-moz-box-shadow:0px 2px 2px #000;
+		-webkit-box-shadow:0px 2px 2px #000;
+	margin-top:-35px;
+}
+
+#inicio{position:absolute;
+	top:350px;
+	left:260px;
+	height:100px;
+	width:150px;
+	}
+	
+#entrar{position:absolute;
+	top:350px;
+	right:260px;
+	height:100px;
+	width:150px;
+	}
+	
+
+		
+
+
+
