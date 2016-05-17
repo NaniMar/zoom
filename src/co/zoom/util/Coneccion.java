@@ -9,7 +9,7 @@ import javax.sql.DataSource;
 
 public class Coneccion {
 	
-	private static Connection CONN;
+	private static Connection CONN; 
 	
 	private static void conectar(){
 		
