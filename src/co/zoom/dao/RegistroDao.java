@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 import co.zoom.util.Coneccion;
 
-public class RegistroDao {
+public class RegistroDao {   
 	
 	private static final String INSERTAR_USUARIO = "INSERT INTO zoom.usuario (login, contrasenia) VALUES (?, ?);";
 	private static final String INSERTAR_APRENDIZ = "INSERT INTO zoom.aprendiz(nombre, apellido, fecha_nacimiento, correo, usuario) VALUES (?, ?, ?,?,?);";
